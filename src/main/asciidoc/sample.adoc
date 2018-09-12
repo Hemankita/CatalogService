@@ -1,0 +1,22 @@
+= How can it be done in Spring Boot?
+
+This is an example for the API documentation generated using Spring REST docs 
+
+== Curl Structure
+include::{snippets}/shouldReturnDefaultMessage/curl-request.adoc[]
+
+== Request structure
+include::{snippets}/shouldReturnDefaultMessage/http-request.adoc[]
+
+== Response structure
+include::{snippets}/shouldReturnDefaultMessage/http-response.adoc[]
+
+== HTTPIE Structure
+include::{snippets}/shouldReturnDefaultMessage/httpie-request.adoc[]
+
+== Request Body Structure
+include::{snippets}/shouldReturnDefaultMessage/request-body.adoc[]
+
+== Response Body Structure
+include::{snippets}/shouldReturnDefaultMessage/response-body.adoc[]
+
